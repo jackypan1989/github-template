@@ -1,5 +1,5 @@
 ---
-name: Bug Report / Ticket Report
+name: Bug Report
 about: Bug / Ticket report with description and context.
 
 ---
