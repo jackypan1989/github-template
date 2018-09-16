@@ -4,6 +4,8 @@ about: Why, Who, What in Scrum User Story
 
 ---
 
+<!--- please add summation at Title above. --->
+
 <!--- the purpose of story --->
 ## Goal
 
